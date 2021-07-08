@@ -3,3 +3,4 @@
     Beans
     Carrots
     potatos
+    Green peas
