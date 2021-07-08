@@ -1,0 +1,5 @@
+    Welcome to SMART
+    
+    Beans
+    Carrots
+    potatos
